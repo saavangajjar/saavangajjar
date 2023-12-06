@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React,Node and PostgresSQL
 - 📫 In order to reach me email me at saavangajjar@gmail.com
 
-Passionate and results-driven software engineer with a proven track record in developing and delivering robust
+I am Passionate and results-driven software engineer with a proven track record in developing and delivering robust
 back-end and web applications. I bring a meticulous and detail-oriented approach to my work, utilizing a diverse
 skill set and staying current with cutting-edge technologies.
 Technical Proficiency:
