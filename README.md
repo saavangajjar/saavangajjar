@@ -17,7 +17,7 @@ application deployment and performance optimization.
 collaborative development.
 5) Methodologies: Adept in Object-Oriented Design, Agile Software Development, and Object-Oriented
 Programming (OOP), ensuring structured and efficient software development processes.
-6) Certifications: Certified in DBMS using MySQL and Python 3, ChatGPT 3, validating my proficiency in database
+6) Certifications: Certified in DBMS using MySQL and Python 3, Prompt Engineering, validating my proficiency in database
 management and versatile programming.
 Top Skills:
 - Angular Material
